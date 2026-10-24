@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATLAB MCP Control"
+  short_description: "Run and verify local MATLAB tasks through official MCP"
+  default_prompt: "Use $matlab-mcp-control to run this task in local MATLAB and verify the generated outputs."

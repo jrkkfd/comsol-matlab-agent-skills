@@ -1,0 +1,4 @@
+interface:
+  display_name: "COMSOL API Connector"
+  short_description: "Connect Codex to local COMSOL through the Python mph API."
+  default_prompt: "Use the COMSOL API connector workflow to locate COMSOL, configure the Python mph environment, run a smoke test, and execute COMSOL automation reliably."

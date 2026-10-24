@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# COMSOL 产物
+*.mph
+*.mph.bak
+*.status
+comsol_mph_smoke_test.mph
+
+# MATLAB MCP 客户端输出
+*-mcp-result-*.png
+*-mcp-result-*.jpg
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.zip
